@@ -1,0 +1,30 @@
+* {
+	margin: 0;
+	padding: 0;
+background: teal;
+}
+h1 {
+	display: flex;
+	background-color: ivory;
+	padding: 0 350px;
+	align: center;
+	height: 45px;
+	}
+.div1 {
+	margin: 50%;
+	display: flex;
+	justify-content: center;
+	background-color: white;
+	width: 150px;
+	height: 180px;
+	padding: 40px;
+	}
+	button {
+padding: 30px;
+background-color: white;
+}
+
+button:active {
+padding: 30px;
+background-color: green;
+}
